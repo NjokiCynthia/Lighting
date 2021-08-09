@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lighting</string>
+    <string name="Title">Home Smart Light Platform</string>
+    <string name="check_status">Check Status</string>
+</resources>

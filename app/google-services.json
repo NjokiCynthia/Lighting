@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "122705409735",
+    "firebase_url": "https://iot-led-lighting-default-rtdb.firebaseio.com",
+    "project_id": "iot-led-lighting",
+    "storage_bucket": "iot-led-lighting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122705409735:android:4952b09447e40b829230e2",
+        "android_client_info": {
+          "package_name": "com.example.aswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9R64PY7L3c33oh4__nvVVOtvI_J-XlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122705409735:android:675882d93b1fa5149230e2",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9R64PY7L3c33oh4__nvVVOtvI_J-XlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122705409735:android:355742f33f308ebc9230e2",
+        "android_client_info": {
+          "package_name": "com.example.lighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9R64PY7L3c33oh4__nvVVOtvI_J-XlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122705409735:android:86b28a185bf71ee49230e2",
+        "android_client_info": {
+          "package_name": "com.example.smart_switch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9R64PY7L3c33oh4__nvVVOtvI_J-XlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122705409735-t7844gnbkubn38hrhj9cuh4gqhg4qfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
